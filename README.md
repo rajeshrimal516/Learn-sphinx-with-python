@@ -86,3 +86,6 @@ cd docs\
 make html
 ```
 The html file is generated and ready at ***docs/build/html/index.html***
+
+## Reference
+1. https://www.sphinx-doc.org/en/master/usage/quickstart.html#getting-started

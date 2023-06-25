@@ -8,5 +8,5 @@ def Addition(number_1, number_2):
 
         :rtype: int
     """
-    sum = number_1 + number_1
+    sum = number_1 + number_2
     return sum
